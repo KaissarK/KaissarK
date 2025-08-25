@@ -35,5 +35,5 @@
 
 _i am living in my favorite country Kazakhstan💙 and my goal is make my country and world muuuch better!_
 
-_today i am codding my game "Only-Legal" that now unpublished. but in the future it will be published. that game i writted on Lua with LOVE2D_
+_today i am codding my game "Only-Legal" that i published on itch.io. that game i writted on Lua with LOVE2D_
 _you can contact with me in [___Discord___](https://discord.gg/u4P2pyBspJ)_

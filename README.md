@@ -10,8 +10,7 @@
 - making games with Lua
 
 ### __i learn some things now:__
-- C++ and cars making
-- Gamedev
+- the low-lewel programming and cars industry
 
 ### __i know how to use/using this apps:__
 - _Visual Studio Code_
